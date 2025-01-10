@@ -56,6 +56,11 @@
                 <h3>Project Title</h3>
                 <p>Short description of the project.</p>
             </div>
+            <div class="project">
+                <img src="placeholder.jpg" alt="Project 3">
+                <h3>Project Title</h3>
+                <p>Short description of the project.</p>
+            </div>
         </div>
     </section>
 
@@ -68,6 +73,9 @@
             </div>
             <div class="photo">
                 <img src="placeholder.jpg" alt="Photo 2">
+            </div>
+            <div class="photo">
+                <img src="placeholder.jpg" alt="Photo 3">
             </div>
         </div>
     </section>
